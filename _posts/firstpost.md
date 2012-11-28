@@ -5,4 +5,4 @@ published: false
 
 # How does it work?
 
-*Enter Text in Markdown format.*
+*Writing is thinking on paper*
